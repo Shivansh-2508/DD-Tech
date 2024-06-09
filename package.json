@@ -11,15 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Prabir/DDTech.git"
+    "url": "https://github.com/Shivansh-2508/DD-Tech.git"
   },
   "keywords": [],
-  "author": "Prabir",
+  "author": "DDtech",
   "license": "MIT",
-  "homepage": "https://prabir.in",
-  "bugs": {
-    "url": "https://github.com/Prabir/DDTech/issues"
-  },
+
+
   "devDependencies": {
     "parcel": "latest"
   },
