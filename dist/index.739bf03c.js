@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"44eYf":[function(require,module,exports) {
+})({"37T0K":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -6244,6 +6244,6 @@ class ImgReveal {
     }
 }
 
-},{"split-type":"jijek","./utils":"72Dku","gsap":"k3DGt","@parcel/transformer-js/src/esmodule-helpers.js":"bArT6"}]},["44eYf","ebWYT"], "ebWYT", "parcelRequire364b")
+},{"split-type":"jijek","./utils":"72Dku","gsap":"k3DGt","@parcel/transformer-js/src/esmodule-helpers.js":"bArT6"}]},["37T0K","ebWYT"], "ebWYT", "parcelRequire364b")
 
 //# sourceMappingURL=index.739bf03c.js.map
